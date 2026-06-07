@@ -1,4 +1,4 @@
-# Z-Language Analyzer 🚀
+# Z-Language Analyzer
 
 A modern web-based lexical and syntax analyzer for the Z-Language programming language. Built with vanilla JavaScript, HTML, and CSS with VS Code-inspired syntax highlighting.
 
