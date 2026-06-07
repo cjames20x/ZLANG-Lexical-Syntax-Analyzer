@@ -5,7 +5,7 @@ A modern web-based lexical and syntax analyzer for the Z-Language programming la
 ![Z-Language Analyzer](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Features](#features)
 - [Screenshots](#screenshots)
@@ -21,30 +21,30 @@ A modern web-based lexical and syntax analyzer for the Z-Language programming la
 ## ✨ Features
 
 ### Lexical Analyzer
-- 🔍 Token identification and classification
-- 🎨 VS Code-style syntax highlighting
-- 📊 Detailed token table with line numbers
-- ⚠️ Error detection for invalid tokens
-- 📋 Copy/Paste functionality
-- 📁 Export results to CSV
+- Token identification and classification
+- VS Code-style syntax highlighting
+- Detailed token table with line numbers
+- Error detection for invalid tokens
+- Copy/Paste functionality
+- Export results to CSV
 
 ### Syntax Analyzer
-- ✅ Syntax validation
-- 🐛 Error detection with descriptions
-- 📍 Line-by-line error highlighting
-- 🔴 Visual error indicators in code editor
-- 📋 Copy/Paste functionality
-- 🧹 Clear all functionality
+- Syntax validation
+- Error detection with descriptions
+- Line-by-line error highlighting
+- Visual error indicators in code editor
+- Copy/Paste functionality
+- Clear all functionality
 
 ### General Features
-- 🎨 Modern, responsive UI with cyberpunk aesthetics
-- 🌙 Dark theme optimized for long coding sessions
-- 💻 Real-time syntax highlighting as you type
-- 📱 Mobile-friendly responsive design
-- ⚡ Fast and lightweight
-- 🔄 Smooth animations and transitions
+- Modern, responsive UI with cyberpunk aesthetics
+- Dark theme optimized for long coding sessions
+- Real-time syntax highlighting as you type
+- Mobile-friendly responsive design
+- Fast and lightweight
+- Smooth animations and transitions
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -115,7 +115,7 @@ z-language-analyzer/
 └── README.md              # This file
 ```
 
-## 📖 How to Use
+## How to Use
 
 ### Lexical Analyzer
 
@@ -162,7 +162,7 @@ z-language-analyzer/
    - Correct the errors in your code
    - Re-analyze until no errors are found
 
-## 🔤 Z-Language Keywords
+## Z-Language Keywords
 
 ### Keywords
 ```
@@ -228,7 +228,7 @@ LETT result = MAX(5, 10, 15);
 - Responsive design
 - Modern UI/UX patterns
 
-## 🌐 Browser Support
+## Browser Support
 
 | Browser | Version | Supported |
 |---------|---------|-----------|
@@ -240,7 +240,7 @@ LETT result = MAX(5, 10, 15);
 
 **Note:** Internet Explorer is not supported.
 
-## 🎨 Color Scheme
+## Color Scheme
 
 The syntax highlighting uses VS Code Dark+ theme colors:
 
@@ -251,7 +251,7 @@ The syntax highlighting uses VS Code Dark+ theme colors:
 - **Operators**: `#D4D4D4` (White)
 - **Delimiters**: `#FFD700` (Gold)
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Here's how you can help:
 
@@ -263,18 +263,18 @@ Contributions are welcome! Here's how you can help:
 
 ### Areas for Contribution
 
-- 🐛 Bug fixes
-- ✨ New features
-- 📝 Documentation improvements
-- 🎨 UI/UX enhancements
-- 🧪 Test coverage
-- 🌍 Internationalization
+- Bug fixes
+- New features
+- Documentation improvements
+- UI/UX enhancements
+- Test coverage
+- Internationalization
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
-Made with ❤️ by the Z-Language Team
+Made with ❤️ by the Z-Lang Team
 
 © 2025 All Rights Reserved
