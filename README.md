@@ -18,7 +18,7 @@ A modern web-based lexical and syntax analyzer for the Z-Language programming la
 - [Contributing](#contributing)
 - [License](#license)
 
-## ✨ Features
+## Features
 
 ### Lexical Analyzer
 - Token identification and classification
